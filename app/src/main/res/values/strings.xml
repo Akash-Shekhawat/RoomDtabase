@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RoomDtabase</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone number</string>
+    <!--    <string name="signup">Signup</string>-->
+    <string name="password">Password</string>
+    <string name="signup">Signup</string>
+    <string name="signup_details">Signup Details</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="open_website">Open Website</string>
+    <string name="camera">Camera</string>
+</resources>
